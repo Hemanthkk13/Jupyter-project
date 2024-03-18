@@ -1,11 +1,16 @@
 # Jupyter-project
 Exploratory Data Analysis of the dataset containing details of employees in ABC company.
+
 Exploratory data analysis (EDA) is used by data scientists to analyze and investigate data sets and summarize their main characteristics, often employing data visualization methods. It helps determine how best to manipulate data sources to get the answers you need, making it easier for data scientists to discover patterns, spot anomalies, test a hypothesis, or check assumption. I carried EDA on the dataset containing details of employees in ABC company.
 
 step1- Pre-processing of data
+
 Step2- Analysis of data
+
 Step3- Creation of visuals
+
 Steps Followed in Pre-processing of the above data
+
 1.Imported the necessary libraries: Before starting the preprocessing, make sure to import the necessary libraries such as pandas, numpy, matplotlib, and seaborn.
 
 2.Loaded the dataset: Loaded the dataset into a pandas DataFrame using the read_csv() function.
